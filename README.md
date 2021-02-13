@@ -1,16 +1,29 @@
-### Hi there 👋
+### Nice to see you 👋
 
-<!--
-**toshihidetagami/toshihidetagami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a softwre engineer who likes work with scala, javascript, and python. 
+I like to use open-source and I want to give back to open-source community.
 
-Here are some ideas to get you started:
+🌱 **I’m currently learning:**
+- scraping
+- functional programming
+- concurrency
+- OS, hardware
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 **Ask me about:**
+- basic javascript(react), scala
+
+:green_book: **favorite books:**
+- Operating Systems: Three Easy Pieces
+- Head First Design Patterns
+
+👯 **I’m looking to collaborate on:**
+- any interesting projects!(javscript, java, scala, python)
+
+🤔 **I’m looking for help with:**
+- UI/UX web design
+- Architecture, System design
+- DevOps
+
+
+
+Lastly, I'd love to connect!  Feel free to contact me.:email:
